@@ -28,3 +28,8 @@ example 2
 + 2022- Verstappen
  
 + _2023_ - _Hamilton / Russel / Max_
+
+#Champions 2014-2020
+1.2014-2015 Hamilton 
+2.2016 Rosberg
+3.2017-2020 Hamilton
